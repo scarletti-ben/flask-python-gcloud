@@ -1,4 +1,4 @@
-The README below is primarily me learning how to deploy flask app via cmd / powershell on windows. In future I may clean it up, or make it more useful.
+The README below is primarily me learning how to deploy flask app via cmd / powershell on windows. In future I may clean it up, or make it more useful. TEST.
 
 - Virtual environments
 python -m venv env
